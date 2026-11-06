@@ -17,7 +17,7 @@ Kids ask anything they wonder about, like why the sky is blue, how volcanoes wor
 | Device | How to get it |
 |---|---|
 | 💻 **Mac** (macOS 12 or newer, Apple silicon or Intel) | **[Download the latest Mac build →](../../releases/latest)** |
-| 📱 **iPhone and iPad** | For now, open the **web version** in Safari (link in the latest release notes), then tap **Share → Add to Home Screen**. The App Store / TestFlight version comes later. |
+| 📱 **iPhone and iPad** | For now, open **[app.kidwio.com](https://app.kidwio.com)** in Safari, then tap **Share → Add to Home Screen**. The App Store / TestFlight version comes later. |
 
 **The first build is coming soon.** Watch this repo (top right, **Watch → Custom → Releases**) to get an email when a new build is ready.
 
@@ -72,7 +72,7 @@ Please try these and tell us what felt confusing, slow or wrong:
 ### Beta limits (known, on purpose)
 - **Purchases are simulated.** There's a "Simulate purchase (test)" button; no real money is involved.
 - **Sign in with Apple, Face ID and notifications are off** in this beta. Use email and password.
-- **iPhone and iPad** use the web version until the App Store / TestFlight build is ready.
+- **iPhone and iPad** use the web version at [app.kidwio.com](https://app.kidwio.com) until the App Store / TestFlight build is ready.
 
 ## 💬 Send feedback
 
