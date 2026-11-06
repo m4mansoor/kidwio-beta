@@ -19,7 +19,7 @@ Kids ask anything they wonder about, like why the sky is blue, how volcanoes wor
 | 💻 **Mac** (macOS 12 or newer, Apple silicon or Intel) | **[Download the latest Mac build →](../../releases/latest)** |
 | 📱 **iPhone and iPad** | For now, open **[app.kidwio.com](https://app.kidwio.com)** in Safari, then tap **Share → Add to Home Screen**. The App Store / TestFlight version comes later. |
 
-**The first build is coming soon.** Watch this repo (top right, **Watch → Custom → Releases**) to get an email when a new build is ready.
+**Latest Mac build: [Kidwio AI 0.2.0-beta.2](../../releases/latest)** (`Kidwio-AI-0.2.0-beta.2-mac.dmg`, 11 MB). Watch this repo (top right, **Watch → Custom → Releases**) to get an email when a new build is ready.
 
 ### Installing on a Mac
 1. Download the `.dmg` file from the latest release.
