@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="940" viewBox="0 0 1200 940" role="img" aria-labelledby="t d">
+<title id="t">Kid screen concept on iPhone</title>
+<desc id="d">An illustrated iPhone: a whiteboard explaining day and night fills the screen, Hazel the owl points at it, with a slider, answer chips, stars and an ask bar with a big mic.</desc>
+
+<defs><pattern id="kdots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="10" cy="10" r="1.6" fill="#ebe4d2"/></pattern>
+<clipPath id="kscr"><rect x="86" y="56" width="398" height="828" rx="44"/></clipPath></defs>
+<rect width="1200" height="940" rx="28" fill="#f4efe4"/>
+<rect x="1.5" y="1.5" width="1197" height="937" rx="27" fill="none" stroke="#e3ddcf" stroke-width="3"/>
+
+<!-- phone -->
+<rect x="76" y="52" width="430" height="860" rx="62" fill="#000" opacity="0.12"/>
+<rect x="70" y="40" width="430" height="860" rx="62" fill="#14171f"/>
+<rect x="74" y="44" width="422" height="852" rx="58" fill="none" stroke="#3a3f4b" stroke-width="2"/>
+<g clip-path="url(#kscr)">
+<rect x="86" y="56" width="398" height="828" fill="#fdfaf2"/>
+<rect x="86" y="56" width="398" height="828" fill="url(#kdots)"/>
+<!-- status bar -->
+<text x="126" y="90" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1f2a44" text-anchor="start">9:41</text>
+<rect x="223" y="68" width="124" height="34" rx="17" fill="#14171f"/>
+<rect x="410" y="78" width="30" height="14" rx="4" fill="none" stroke="#1f2a44" stroke-width="2"/><rect x="413" y="81" width="20" height="8" rx="2" fill="#1f2a44"/>
+<!-- top row: stars + grown-ups -->
+<rect x="104" y="112" width="132" height="34" rx="17" fill="#ffffff" stroke="#e3ddcf" stroke-width="2"/>
+<polygon points="124.0,120.0 126.4,125.7 132.6,126.2 127.9,130.3 129.3,136.3 124.0,133.1 118.7,136.3 120.1,130.3 115.4,126.2 121.6,125.7" fill="#ffd166" stroke="#e8a400" stroke-width="1.5" stroke-linejoin="round"/><polygon points="146.0,120.0 148.4,125.7 154.6,126.2 149.9,130.3 151.3,136.3 146.0,133.1 140.7,136.3 142.1,130.3 137.4,126.2 143.6,125.7" fill="#ffd166" stroke="#e8a400" stroke-width="1.5" stroke-linejoin="round"/><polygon points="168.0,120.0 170.4,125.7 176.6,126.2 171.9,130.3 173.3,136.3 168.0,133.1 162.7,136.3 164.1,130.3 159.4,126.2 165.6,125.7" fill="#ffd166" stroke="#e8a400" stroke-width="1.5" stroke-linejoin="round"/><text x="184" y="135" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#d9480f" text-anchor="start">3</text><text x="198" y="135" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4a5470" text-anchor="start">today</text>
+<circle cx="446" cy="129" r="17" fill="#ffffff" stroke="#e3ddcf" stroke-width="2"/>
+<rect x="439" y="128" width="14" height="10" rx="2" fill="#4a5470"/><path d="M442 128 v-4 a4 4 0 0 1 8 0 v4" fill="none" stroke="#4a5470" stroke-width="2"/>
+
+<!-- board -->
+<text x="112" y="184" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="28" font-weight="700" fill="#2b4c9b" text-anchor="start">Why do we have</text>
+<text x="112" y="218" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="28" font-weight="700" fill="#2b4c9b" text-anchor="start">day &amp; night?</text>
+<path d="M112 230 q90 6 190 -2" stroke="#f76707" stroke-width="4" fill="none" stroke-linecap="round"/>
+<g><line x1="192.0" y1="318.0" x2="202.0" y2="318.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="185.1" y1="339.2" x2="193.2" y2="345.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="167.1" y1="352.2" x2="170.2" y2="361.7" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="144.9" y1="352.2" x2="141.8" y2="361.7" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="126.9" y1="339.2" x2="118.8" y2="345.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="120.0" y1="318.0" x2="110.0" y2="318.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="126.9" y1="296.8" x2="118.8" y2="291.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="144.9" y1="283.8" x2="141.8" y2="274.3" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="167.1" y1="283.8" x2="170.2" y2="274.3" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><line x1="185.1" y1="296.8" x2="193.2" y2="291.0" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/><circle cx="156" cy="318" r="30" fill="#ffd166" stroke="#f5a623" stroke-width="3"/></g>
+<path d="M208 318 L282 318" stroke="#2b4c9b" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>
+<path d="M273 310 L284 318 L273 326" stroke="#2b4c9b" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+<clipPath id="kearth"><circle cx="354" cy="320" r="58"/></clipPath>
+<circle cx="354" cy="320" r="58" fill="#4dabf7"/>
+<g clip-path="url(#kearth)">
+<path d="M313.4 299.7 q17.4 -23.200000000000003 34.8 -5.800000000000001 q11.600000000000001 17.4 -2.9000000000000004 31.900000000000002 q-20.299999999999997 8.7 -31.900000000000002 -26.1z" fill="#51b26b"/>
+<path d="M356.9 331.6 q23.200000000000003 -17.4 40.599999999999994 2.9000000000000004 q-2.9000000000000004 26.1 -26.1 29 q-17.4 -11.600000000000001 -14.5 -31.900000000000002z" fill="#51b26b"/>
+<path d="M354 262 A58 58 0 0 1 354 378 Z" fill="#1b2a4a" opacity="0.72"/>
+</g>
+<circle cx="354" cy="320" r="58" fill="none" stroke="#2b4c9b" stroke-width="3"/>
+</g>
+<path d="M302 252 A52 18.2 0 0 1 406 252" fill="none" stroke="#f76707" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="2 8"/>
+<path d="M396 244 L407 253 L394 257" fill="none" stroke="#f76707" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="282" y="410" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="18" font-weight="700" fill="#d9480f" text-anchor="start">day</text>
+<text x="386" y="410" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="18" font-weight="700" fill="#1b2a4a" text-anchor="start">night</text>
+<!-- note -->
+<rect x="108" y="432" width="354" height="76" rx="14" fill="#ffffff" stroke="#e3ddcf" stroke-width="2"/>
+<text x="124" y="462" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="17" fill="#1f2a44">The Earth spins like a top. The side</text>
+<text x="124" y="488" font-family="'Chalkboard SE','Comic Neue','Comic Sans MS','Marker Felt',cursive" font-size="17" fill="#1f2a44">facing the Sun has <tspan font-weight="700" fill="#d9480f">day</tspan>, the other <tspan font-weight="700" fill="#2b4c9b">night</tspan>.</text>
+<!-- step slider -->
+<text x="112" y="542" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1f2a44" text-anchor="start">✋ Your turn: spin the Earth!</text>
+<rect x="116" y="558" width="338" height="12" rx="6" fill="#e9e3d3"/>
+<rect x="116" y="558" width="185.9" height="12" rx="6" fill="#4dabf7"/>
+<circle cx="301.9" cy="564" r="15" fill="#ffffff" stroke="#2b4c9b" stroke-width="4"/>
+<!-- check chips -->
+<text x="112" y="614" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#1f2a44" text-anchor="start">Where is it night right now?</text>
+<rect x="112" y="628" width="152" height="40" rx="20" fill="#ffffff" stroke="#c7ccd6" stroke-width="2"/><text x="188" y="654" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#1f2a44" text-anchor="middle">Facing the Sun</text>
+<rect x="274" y="628" width="182" height="40" rx="20" fill="#d3f9d8" stroke="#51b26b" stroke-width="2.5"/><text x="365" y="654" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2b7a3b" text-anchor="middle">Away from the Sun ✓</text>
+<!-- buddy + bubble -->
+<svg x="92" y="644" width="128" height="128" viewBox="0 0 120 120" overflow="visible"><ellipse cx="60" cy="112" rx="30" ry="4" fill="#000000" opacity="0.1"></ellipse><g><g><g><g transform="rotate(24 36 64)"><line x1="36" y1="64" x2="36" y2="88" stroke="#7d522e" stroke-width="11" stroke-linecap="round"></line><circle cx="36" cy="88" r="6.82" fill="#7d522e"></circle></g></g><g><g transform="rotate(-100 84 64)"><line x1="84" y1="64" x2="84" y2="88" stroke="#7d522e" stroke-width="11" stroke-linecap="round"></line><circle cx="84" cy="88" r="6.82" fill="#7d522e"></circle></g></g></g><polygon points="34,34 38,12 52,28" fill="#7d522e"></polygon><polygon points="86,34 82,12 68,28" fill="#7d522e"></polygon><ellipse cx="60" cy="66" rx="30" ry="38" fill="#9b6a43"></ellipse><ellipse cx="60" cy="82" rx="19" ry="20" fill="#f3dcb2"></ellipse><path d="M51 78 q3 3 6 0 M63 78 q3 3 6 0 M57 88 q3 3 6 0" fill="none" stroke="#d6b483" stroke-width="2" stroke-linecap="round"></path><circle cx="48" cy="50" r="12" fill="#f3dcb2"></circle><circle cx="72" cy="50" r="12" fill="#f3dcb2"></circle><g><g><circle cx="48" cy="50" r="8" fill="#ffffff"></circle><circle cx="50.8" cy="50" r="4.48" fill="#2b2a33"></circle><circle cx="52.4" cy="48.24" r="1.44" fill="#ffffff"></circle></g><g><circle cx="72" cy="50" r="8" fill="#ffffff"></circle><circle cx="74.8" cy="50" r="4.48" fill="#2b2a33"></circle><circle cx="76.39999999999999" cy="48.24" r="1.44" fill="#ffffff"></circle></g></g><polygon points="55,59 65,59 60,66.5" fill="#f5a623"></polygon><ellipse cx="50" cy="104" rx="6" ry="3" fill="#f5a623"></ellipse><ellipse cx="70" cy="104" rx="6" ry="3" fill="#f5a623"></ellipse></g></svg>
+<path d="M226 680 h220 a14 14 0 0 1 14 14 v44 a14 14 0 0 1 -14 14 h-206 l-14 10 v-24 a14 14 0 0 1 0 -4 v-40 a14 14 0 0 1 0 0 z" fill="#ffffff" stroke="#e3ddcf" stroke-width="2"/>
+<text x="242" y="706" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1f2a44" text-anchor="start">Ooh, I love this one!</text><text x="242" y="728" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1f2a44" text-anchor="start">Watch the board…  🔊</text>
+<!-- ask bar -->
+<rect x="86" y="780" width="398" height="104" fill="#ffffff" opacity="0.92"/>
+<line x1="86" y1="780" x2="484" y2="780" stroke="#e3ddcf" stroke-width="2"/>
+<rect x="104" y="798" width="280" height="56" rx="28" fill="#ffffff" stroke="#c7ccd6" stroke-width="2"/>
+<text x="128" y="833" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#9aa0ad" text-anchor="start">Ask me anything…</text>
+<circle cx="430" cy="826" r="38" fill="#f76707"/>
+<circle cx="430" cy="826" r="38" fill="none" stroke="#ffe8cc" stroke-width="5"/>
+<g transform="translate(430 824) scale(1.15)">
+<rect x="-7" y="-16" width="14" height="22" rx="7" fill="#ffffff"/>
+<path d="M-12 0 a12 12 0 0 0 24 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+<line x1="0" y1="12" x2="0" y2="18" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+<line x1="-6" y1="18" x2="6" y2="18" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</g>
+<rect x="219" y="872" width="132" height="5" rx="2.5" fill="#1f2a44" opacity="0.5"/>
+</g>
+
+<g><rect x="600" y="50" width="116.4" height="26" rx="13" fill="#1f2a44"/><text x="658.2" y="67.5" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">CONCEPT ART</text></g>
+<text x="600" y="108" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#1f2a44" text-anchor="start">The kid's screen</text>
+<path d="M478 258 C560 258 540 152 592 152" fill="none" stroke="#c7ccd6" stroke-width="2.5" stroke-dasharray="4 6"/>
+<circle cx="478" cy="258" r="6" fill="#f76707" stroke="#ffffff" stroke-width="2"/>
+<circle cx="618" cy="152" r="18" fill="#f76707"/><text x="618" y="159" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+<text x="650" y="159" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#1f2a44" text-anchor="start">The board is the app</text>
+<text x="650" y="188" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">One big living whiteboard fills the screen.</text><text x="650" y="212" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">The buddy draws, labels and animates on it.</text><path d="M478 564 C560 564 540 292 592 292" fill="none" stroke="#c7ccd6" stroke-width="2.5" stroke-dasharray="4 6"/>
+<circle cx="478" cy="564" r="6" fill="#f76707" stroke="#ffffff" stroke-width="2"/>
+<circle cx="618" cy="292" r="18" fill="#f76707"/><text x="618" y="299" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+<text x="650" y="299" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#1f2a44" text-anchor="start">Play with the answer</text>
+<text x="650" y="328" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">Spin, drag, sort, tap a picture or draw back.</text><text x="650" y="352" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">Here: slide to spin the Earth.</text><path d="M478 648 C560 648 540 432 592 432" fill="none" stroke="#c7ccd6" stroke-width="2.5" stroke-dasharray="4 6"/>
+<circle cx="478" cy="648" r="6" fill="#f76707" stroke="#ffffff" stroke-width="2"/>
+<circle cx="618" cy="432" r="18" fill="#f76707"/><text x="618" y="439" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+<text x="650" y="439" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#1f2a44" text-anchor="start">Quick check, then stars</text>
+<text x="650" y="468" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">Tap-to-answer chips. Stars are praise,</text><text x="650" y="492" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">never pressure: no streaks, no guilt.</text><path d="M478 710 C560 710 540 572 592 572" fill="none" stroke="#c7ccd6" stroke-width="2.5" stroke-dasharray="4 6"/>
+<circle cx="478" cy="710" r="6" fill="#f76707" stroke="#ffffff" stroke-width="2"/>
+<circle cx="618" cy="572" r="18" fill="#f76707"/><text x="618" y="579" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+<text x="650" y="579" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#1f2a44" text-anchor="start">A buddy who talks and points</text>
+<text x="650" y="608" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">Answers out loud with captions, points at what</text><text x="650" y="632" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">it draws and cheers when you get one right.</text><path d="M478 826 C560 826 540 712 592 712" fill="none" stroke="#c7ccd6" stroke-width="2.5" stroke-dasharray="4 6"/>
+<circle cx="478" cy="826" r="6" fill="#f76707" stroke="#ffffff" stroke-width="2"/>
+<circle cx="618" cy="712" r="18" fill="#f76707"/><text x="618" y="719" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#ffffff" text-anchor="middle">5</text>
+<text x="650" y="719" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#1f2a44" text-anchor="start">Type or talk</text>
+<text x="650" y="748" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">“Ask me anything…” plus a big mic button.</text><text x="650" y="772" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#4a5470" text-anchor="start">No prices, ads, links or settings, ever.</text>
+<text x="600" y="862" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#8a8f9c" text-anchor="start">Illustration of the approved “A + C” direction: the board is</text>
+<text x="600" y="884" font-family="'Avenir Next','Nunito','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#8a8f9c" text-anchor="start">the app, with a buddy and stars mixed in. Not a screenshot.</text>
+
+</svg>
